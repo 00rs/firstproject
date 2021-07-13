@@ -1,3 +1,3 @@
 # firstproject
-# my first project
-# started learning 
+ my first project
+ started learning 
